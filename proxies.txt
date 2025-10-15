@@ -1,0 +1,6 @@
+http://use:pass@ip:port
+http://use:pass@ip:port
+http://use:pass@ip:port
+http://use:pass@ip:port
+
+Định dạng mỗi dòng 1 proxi nhé

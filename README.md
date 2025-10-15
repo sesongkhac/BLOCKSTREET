@@ -2,7 +2,7 @@
 Blockstreet auto refer + daily swap and check in Bot
 
 
-- If you are new, you can join the airdrop here 👉 https://blockstreet.money/dashboard?invite_code=AFSUj4
+- If you are new, you can join the airdrop here 👉 https://blockstreet.money/dashboard?invite_code=Xws3Z4
 
 
 #Requirements
@@ -13,7 +13,7 @@ Blockstreet auto refer + daily swap and check in Bot
 
 # Clone the repo 
 
-git clone https://github.com/BamarAirdropGroup/BLOCKSTREET.git && cd BLOCKSTREET && npm install
+git clone https://github.com/sesongkhac/BLOCKSTREET.git && cd BLOCKSTREET && npm install
 
 
 # Add capmonster key in key.txt
@@ -38,12 +38,12 @@ git clone https://github.com/BamarAirdropGroup/BLOCKSTREET.git && cd BLOCKSTREET
   node ref.js
 
 
-💡 ယူလိုက်တဲ့ refer wallet တွေကို wallets.json မှာ auto save ပါမယ် 
+💡 Tự động refer wallet vào wallets.json auto save 
 
 
 # For daily check in and swap 
 
-- add private key in .env (PRIVATE_KEY_1= ,.....  စသည် ဖြင့် )
+- add private key in .env (PRIVATE_KEY_1= ,..... 
 
   nano .env
 
@@ -52,17 +52,8 @@ git clone https://github.com/BamarAirdropGroup/BLOCKSTREET.git && cd BLOCKSTREET
 
  node index.js
 
-💡နောက် bot တခု ထည့် ထားပါတယ် ။အဲ တာ ကတော့ refer ယူလိုက်တဲ့ wallets.json ထဲ က private key တွေကို PRIVATE_KEY_1,2,3 AUTO ပြောင်း ရေးပေးတဲ့ ဟာပါ ။ RUN ပြီးရင် ရေးပြီးသားကို pkey.txt မှာ တွေ့ ပါ မယ်။ ( auto refer bot run ပြီးမှ run ရန် ) 
-
-- Run ဖို့ က
-
-  node convert.js
-
-  ဒါ ဆို pkey.txt မှ ရေးပြီးသား  private key တွေကို copy  ကာ .env မှာ ထည့်ပြီး daily bot run လို့ ရပါပြီ 
- 
-
-
 
 
   
+
 
